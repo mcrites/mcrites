@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcrites
 - 👀 I’m interested in getting my feet wet with using Github
-- 🌱 I’m currently learning how to build a product.
+- 🌱 I’m currently learning how to build a product for www.americanfirearms.org
 - 📫 How to reach me: subversivedesigns@gmail.com
 
 <!---
